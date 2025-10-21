@@ -3,7 +3,7 @@
 **Course:** CMSC 3320/001  
 **Group:** 7  
 **Members:**  
-- Caleb Ruby — rub4133@pennwest.edu  
+- Caleb Ruby — calebruby.cs@gmail.com
 - Adir Turgeman — tur28711@pennwest.edu  
 - Caleb Rachocki — rac3146@pennwest.edu  
 - Ryan Miller — mil0780@pennwest.edu  
